@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Aias00
-- 👀 I’m interested in programming and badminton
+- ✨ Apache Shenyu PMC
+- ✨ Apache Hertzbeat PMC
+- ✨ Alibaba Spring-ai-alibaba PMC
 
 <!---
 Aias00/Aias00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
