@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aias00
 - ✨ Apache Shenyu PMC
 - ✨ Apache Hertzbeat PMC
-- ✨ Alibaba spring-ai-alibaba PMC
+- ✨ Alibaba Spring-AI-Alibaba PMC
 - ✨ Alibaba Higress Approver
 
 <!---
