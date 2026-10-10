@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aias00
 - ✨ Apache Shenyu PMC
-- ✨ Apache Hertzbeat PMC
-- ✨ Alibaba Spring-AI-Alibaba PMC
+- finding a ai-related job
 
 <!---
 Aias00/Aias00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
